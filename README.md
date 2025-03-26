@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Quantitative Content Analysis, Text Mining, and Visualization of Text Data mainly for social science.
+- 📖 I wrote books (in Japanese language) like:
+   - [Quantitative Text Analysis for Social Researchers: A contribution to Content Analysis](http://amzn.to/2wHFxKg)
+   - [Learn by exercise! Introduction to Text Mining](http://amzn.to/3LdRHMJ)
+
 <!--
 **ko-ichi-h/ko-ichi-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
